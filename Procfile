@@ -1,1 +1,1 @@
-web: gunicorn flasker
+web: gunicorn flaskr
